@@ -129,7 +129,7 @@ Handwritten-Digit-Recognition/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Handwritten-Digit-Recognition.git
+git clone https://github.com/TheToontang/Handwritten-Digit-Recognition
 cd Handwritten-Digit-Recognition
 ```
 
@@ -174,7 +174,3 @@ Potential extensions include:
 ## Technologies Used
 
 Python · NumPy · scikit-learn · Matplotlib
-
-## Author
-
-TheToontang
