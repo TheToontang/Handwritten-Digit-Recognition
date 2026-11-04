@@ -52,9 +52,9 @@ The custom KNN classifier uses the following steps:
 
 Euclidean distance is calculated as:
 
-\[
-d(x,y)=\sqrt{\sum_{i=1}^{64}(x_i-y_i)^2}
-\]
+$$
+d(x,y) = \sqrt{\sum_{i=1}^{64}(x_i-y_i)^2}
+$$
 
 This approach uses pixel intensities directly as numerical features.
 
@@ -129,7 +129,7 @@ Handwritten-Digit-Recognition/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/TheToontang/Handwritten-Digit-Recognition
+git clone https://github.com/TheToontang/Handwritten-Digit-Recognition.git
 cd Handwritten-Digit-Recognition
 ```
 
